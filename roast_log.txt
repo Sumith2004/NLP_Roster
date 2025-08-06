@@ -1,0 +1,11 @@
+2025-08-06 10:31:44.733420 | Roast | Input: hello | Output: You're like a read-only file — untouchable and unchanging. 📁
+2025-08-06 10:32:19.565227 | Roast | Input: Why is AI so weird | Output: You're the human equivalent of beige. 🎨
+2025-08-06 10:33:15.986092 | Roast | Input: hii | Output: You're as dramatic as plain yogurt. 🥛
+2025-08-06 11:06:21.146255 | Roast | Input: hello | Output: You're like autocorrect — mostly helpful, sometimes hilarious. 🔤
+2025-08-06 11:06:53.889403 | Roast | Input: I’m coding | Output: You're confident like someone who pushes to main without testing. 💀
+2025-08-06 11:07:00.904790 | Roast | Input: Surprise me! | Output: Your smile could power a server — until it segfaults. 😬
+2025-08-06 11:07:34.839783 | Compliment | Input: Feeling meh | Output: You're like middleware — holding it all together. 🔌
+2025-08-06 11:08:05.420650 | Compliment | Input: fuck | Output: Every system needs maintenance — take your time. ⏳
+2025-08-06 11:52:51.241671 | Roast | Input: Hey baby | Output: You don’t just throw errors, you host them. 🛑
+2025-08-06 11:56:09.298551 | Roast | Input: Why is AI so weird | Output: You're the human equivalent of beige. 🎨
+2025-08-06 11:59:49.233433 | Compliment | Input: come on | Output: You said: *come on*... and still thought you’d escape a roast? 😏
